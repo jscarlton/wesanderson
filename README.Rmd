@@ -92,6 +92,10 @@ wes_palette("Chevalier")
 wes_palette("Zissou")
 ```
 
+```{r, lifeaquatic-2}
+wes_palette("Zissou2")
+```
+
 ```{r, volcano, fig.height = 3}
 pal <- wes_palette("Zissou", 21, type = "continuous")
 image(volcano, col = pal)

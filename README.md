@@ -118,6 +118,12 @@ wes_palette("Zissou")
 ![](figure/lifeaquatic-1.png)
 
 ``` r
+wes_palette("Zissou2")
+```
+
+![](figure/lifeaquatic-2.png)
+
+``` r
 pal <- wes_palette("Zissou", 21, type = "continuous")
 image(volcano, col = pal)
 ```
