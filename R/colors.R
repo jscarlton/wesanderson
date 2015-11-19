@@ -14,7 +14,7 @@ wes_palettes <- list(
   Moonrise3 = c("#85D4E3", "#F4B5BD", "#9C964A", "#CDC08C", "#FAD77B"),
   Chevalier = c("#446455", "#FDD262", "#D3DDDC", "#C7B19C"),
   Zissou = c("#3B9AB2", "#78B7C5", "#EBCC2A", "#E1AF00", "#F21A00"),
-  Zissou2 = c("#00AAEE", "#1E2E6E", "#FF1300", "#FF1300", "#C2CFD1"),
+  Zissou2 = c("#00AAEE", "#1E2E6E", "#FF1300", "#EAC39B", "#C2CFD1"),
   FantasticFox = c("#DD8D29", "#E2D200", "#46ACC8", "#E58601", "#B40F20"),
   Darjeeling = c("#FF0000", "#00A08A", "#F2AD00", "#F98400", "#5BBCD6"),
   Rushmore = c("#E1BD6D", "#EABE94", "#0B775E", "#35274A" ,"#F2300F"),
